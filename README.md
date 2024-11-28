@@ -1,0 +1,2 @@
+# Inheritance 3
+ 
